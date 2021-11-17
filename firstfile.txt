@@ -1,3 +1,5 @@
 My first git file
 changes made for git merge conflict by github user
 change2 made by Ashutosh
+change2 made by github user2
+
